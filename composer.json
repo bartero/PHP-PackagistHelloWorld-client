@@ -1,0 +1,7 @@
+{
+   "name": "bartero/hello-world-client-package",
+   "description": "My badass first client package for the badass lib package",
+   "require": {
+      "bartero/hello-world-lib-package": "^0"
+   }
+}
