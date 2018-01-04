@@ -1,2 +1,2 @@
-# packagist-helloworld-client
-This is my Hello World clieant package to be published pn the Packagist composer repo
+# Packagist Hello World (client)
+This is my first Hello World client package published on the Packagist repo
